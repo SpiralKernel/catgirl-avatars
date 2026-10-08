@@ -1,0 +1,2 @@
+# Only needed to rebuild README images. The generator uses the standard library.
+Pillow>=10.0

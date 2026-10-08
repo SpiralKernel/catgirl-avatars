@@ -1,0 +1,32 @@
+{
+  "models": [
+    {
+      "path": "models/diffusion_models/anima-base-v1.0.safetensors",
+      "sha256": "bd43b7cffe1ed1153d9c41e7beb2f18cb1273eafbaa3af3edd6a173dc90a006e",
+      "bytes": 4182218328,
+      "download_url": "https://huggingface.co/circlestone-labs/Anima/resolve/main/split_files/diffusion_models/anima-base-v1.0.safetensors",
+      "source": "https://huggingface.co/circlestone-labs/Anima"
+    },
+    {
+      "path": "models/text_encoders/qwen_3_06b_base.safetensors",
+      "sha256": "cd2a512003e2f9f3cd3c32a9c3573f820bb28c940f73c57b1ddaa983d9223eba",
+      "bytes": 1192135096,
+      "download_url": "https://huggingface.co/circlestone-labs/Anima/resolve/main/split_files/text_encoders/qwen_3_06b_base.safetensors",
+      "source": "https://huggingface.co/circlestone-labs/Anima"
+    },
+    {
+      "path": "models/vae/qwen_image_vae.safetensors",
+      "sha256": "a70580f0213e67967ee9c95f05bb400e8fb08307e017a924bf3441223e023d1f",
+      "bytes": 253806246,
+      "download_url": "https://huggingface.co/circlestone-labs/Anima/resolve/main/split_files/vae/qwen_image_vae.safetensors",
+      "source": "https://huggingface.co/circlestone-labs/Anima"
+    },
+    {
+      "path": "models/upscale_models/4x-NMKD-UltraYandere-Lite.pth",
+      "sha256": "20bcc2e823c26271a6d89d14578fd80ffb3aa727535284298161cb6a81cb501c",
+      "bytes": 20173354,
+      "download_url": null,
+      "source": "https://openmodeldb.info/models/4x-NMKD-UltraYandere-Lite"
+    }
+  ]
+}

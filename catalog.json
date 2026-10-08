@@ -1,0 +1,285 @@
+{
+  "assets": [
+    {
+      "path": "images/lingyin/01_closed_smile.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "lingyin/01_closed_smile",
+      "sha256": "183773299000098e106304e309c39a14fdf13c7c637cbe14ef1ea7ce606ece0a"
+    },
+    {
+      "path": "images/lingyin/02_open_smile.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "lingyin/02_open_smile",
+      "sha256": "2b0b3c71c711fe7f13b0e342fec0816878a6e49b5a69979c1137d25479e1eebc"
+    },
+    {
+      "path": "images/lingyin/03_wink.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "lingyin/03_wink",
+      "sha256": "64b7347b3ebdcbaa167372e7e05cb303c1498addacb02c934d85683f3d297d5d"
+    },
+    {
+      "path": "images/lingyin/04_pout.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "lingyin/04_pout",
+      "sha256": "48ccd2e4cec234c129345871867cf1bbf7eeb4f7471473d897036e5621c34c46"
+    },
+    {
+      "path": "images/lingyin/05_happy.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "lingyin/05_happy",
+      "sha256": "f9fedcd434ae43cfae71492dba2ad15c99899ffcc77bdd99feb42bf23829e3e0"
+    },
+    {
+      "path": "images/lingyin/06_surprised.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "lingyin/06_surprised",
+      "sha256": "a5fa3dc9f4cac98225229013b1f007ca8866302aeddab12b03aa9b7c0df83309"
+    },
+    {
+      "path": "images/lingyin/07_shy.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "lingyin/07_shy",
+      "sha256": "fb1e180a1499abff50e199af346afb3790a40cea67548b81d347c0d6b0ac129b"
+    },
+    {
+      "path": "images/lingyin/08_sleepy.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "lingyin/08_sleepy",
+      "sha256": "43e952b91cf569a3eeb9a912fca1d58a6d5a9f2a46520771e408ad8411d2a406"
+    },
+    {
+      "path": "images/lingyin/09_smug.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "lingyin/09_smug",
+      "sha256": "a59b17b4664cf149f1969c31f46607008ca77cb85fb412c125466c5ca7614caf"
+    },
+    {
+      "path": "images/lingyin/10_angry.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "lingyin/10_angry",
+      "sha256": "a37bc8596769052be4279965ae063fa1a137c296709fe1d0df87d58f21791143"
+    },
+    {
+      "path": "images/lingyin/11_teary.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "lingyin/11_teary",
+      "sha256": "911a0bf46758247aa3ce1e8819e87c2a6021c9506c71ab25fd7bf6052b02a4fa"
+    },
+    {
+      "path": "images/lingyin/12_neutral.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "lingyin/12_neutral",
+      "sha256": "17953cef5268677eb619d4eeee2874db08cbeca6db6c2392f8058d370d58c596"
+    },
+    {
+      "path": "images/ragdoll/01_smile.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "ragdoll/01_smile",
+      "sha256": "835109d7c46868562302dbd96a0721a152123032af58595f335636947cbd5cce"
+    },
+    {
+      "path": "images/ragdoll/02_wink.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "ragdoll/02_wink",
+      "sha256": "082dcbb706de5806ab01d1593b1307813d77a0cd3d2cb28347cff8cb559b1bd6"
+    },
+    {
+      "path": "images/ragdoll/03_shy.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "ragdoll/03_shy",
+      "sha256": "0a11c744cd2ae0bbe9d93ff32c3ffa54dd9628d713a89f6655ed47a26a8fda66"
+    },
+    {
+      "path": "images/ragdoll/04_pout.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "ragdoll/04_pout",
+      "sha256": "55fe2bff1914f191d6bbeb9ef0473b6fc825056915898774e6ff3e44f22268e8"
+    },
+    {
+      "path": "images/calico/01_smile.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "calico/01_smile",
+      "sha256": "c1788fe8c606c5463724ea4d51668a5db0be23e84dc434d04bc71a6eb1717c70"
+    },
+    {
+      "path": "images/calico/02_wink.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "calico/02_wink",
+      "sha256": "1a05b78278592625dd62d8ce63956d6e1b09ac676832c398399e3906cd250132"
+    },
+    {
+      "path": "images/calico/03_shy.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "calico/03_shy",
+      "sha256": "3265ec7ef9c40d94a3d50d722cb0e97f1eff067782c0fee6c044f0146a38f8a1"
+    },
+    {
+      "path": "images/calico/04_pout.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "calico/04_pout",
+      "sha256": "e7a1fa18c6c37ed2b86773ddaf1ab6d52524900e53ac769cf821ead64d00fb54"
+    },
+    {
+      "path": "images/fairywren/02_blue_catgirl.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "fairywren/02_blue_catgirl",
+      "sha256": "f923dbd5b2f743945d0acbcd4b5130e7ea7c68bd699cc3da2aa4af70bb9e6659"
+    },
+    {
+      "path": "images/green-cat/anima/01_closed_smile.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "green-cat/anima/01_closed_smile",
+      "sha256": "6e5b0d9b9c0dbc45f555a6b6c06be35c7e349a6417f840a2d67f5d69dc137817"
+    },
+    {
+      "path": "images/green-cat/anima/02_open_smile.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "green-cat/anima/02_open_smile",
+      "sha256": "5cdd3e6f3e57c0575420a14b88c3e44f73b973328ee19126e4d22de494cf24f3"
+    },
+    {
+      "path": "images/green-cat/anima/03_wink.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "green-cat/anima/03_wink",
+      "sha256": "471ab40b1cfa0effd33a53c94ac9ed2f02dd9b125dce278fbb8b242259602269"
+    },
+    {
+      "path": "images/green-cat/anima/04_pout.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "green-cat/anima/04_pout",
+      "sha256": "edec20c81f1dac011cb77daf4c2c34956ce7ca835a08b37b55c6c016e8d8f14b"
+    },
+    {
+      "path": "images/red-hoodie/01_smile.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "red-hoodie/01_smile",
+      "sha256": "d24669149a82ff9d91ca74033d5a14ca442922d448e47afe6ed0fd66602801f6"
+    },
+    {
+      "path": "images/random-cat-avatars/01_mint.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "random-cat-avatars/01_mint",
+      "sha256": "1e424064e4cba189235e1f4b6215c909df46c2c4e97c73d8b668cf04dfdf0b68"
+    },
+    {
+      "path": "images/random-cat-avatars/02_butter-yellow.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "random-cat-avatars/02_butter-yellow",
+      "sha256": "2ec52f05f28881e5b0a8d4c84e4212eb12684222248031525a670abfd1d13055"
+    },
+    {
+      "path": "images/random-cat-avatars/03_lavender.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "random-cat-avatars/03_lavender",
+      "sha256": "82baaedd24324eb63d6eb954f8c1ece607ad1dc4eb7c795ea1a02e649b496908"
+    },
+    {
+      "path": "images/random-cat-avatars/04_peach.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "random-cat-avatars/04_peach",
+      "sha256": "30b43d635fe4900b56b09bb4a08df72ab2bef96fa44cc65cb53eeb0ba9401885"
+    },
+    {
+      "path": "images/random-cat-avatars/05_sky-blue.png",
+      "dimensions": [
+        1536,
+        1536
+      ],
+      "variant": "random-cat-avatars/05_sky-blue",
+      "sha256": "07a344e72cc8dfb853717a756500a61bef4c78e7ba106747099fb0ebe55677e5"
+    }
+  ],
+  "workflow": "anima-avatar-hd",
+  "recipes": 31
+}
